@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yks-search\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-28 13:53+0900\n"
+"PO-Revision-Date: 2017-07-05 18:56+0900\n"
+"Last-Translator: d <s@dd.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../add/taxonomy.php:27
+msgid "Taxonomy Query"
+msgstr "タクソノミー"
+
+#: ../add/taxonomy.php:66
+msgid "Add new taxonomy-query"
+msgstr "タクソノミーを追加"
+
+#: ../inc/admin.php:21
+msgid "WP Meta Search Settings"
+msgstr "WP Meta Seach 設定"
+
+#: ../inc/admin.php:21
+#: ../inc/admin.php:66
+msgid "WP Meta Search"
+msgstr ""
+
+#: ../inc/admin.php:70
+msgid "Settings Saved"
+msgstr "保存完了"
+
+#: ../inc/admin.php:123
+msgid "Add new meta-query"
+msgstr "カスタムフィールドを追加"
+
+#: ../inc/admin.php:124
+msgid "Add new post-type"
+msgstr "投稿タイプを追加"
+
+#: ../inc/admin.php:125
+msgid "Add new category"
+msgstr "カテゴリーを追加"
+
+#: ../inc/admin.php:126
+msgid "Add new tag"
+msgstr "タグを追加"
+
+#: ../inc/admin.php:127
+msgid "Add new keyword"
+msgstr "検索ワードを追加"
+
+#: ../inc/admin.php:132
+msgid "Save"
+msgstr "保存"
+
+#: ../inc/admin.php:166
+msgid "Keyword"
+msgstr "キーワード"
+
+#: ../inc/admin.php:173
+#: ../inc/admin.php:205
+#: ../inc/admin.php:270
+#: ../inc/admin.php:315
+#: ../inc/admin.php:361
+msgid "label"
+msgstr "ラベル"
+
+#: ../inc/admin.php:177
+#: ../inc/admin.php:236
+#: ../inc/admin.php:285
+#: ../inc/admin.php:330
+#: ../inc/admin.php:375
+msgid "delete"
+msgstr "削除"
+
+#: ../inc/admin.php:198
+msgid "Post Type"
+msgstr "投稿タイプ"
+
+#: ../inc/admin.php:210
+msgid "hidden"
+msgstr ""
+
+#: ../inc/admin.php:213
+msgid "post type (fixed value)"
+msgstr "投稿タイプ（固定値）"
+
+#: ../inc/admin.php:217
+msgid "select&hellip;"
+msgstr "選択"
+
+#: ../inc/admin.php:226
+#: ../inc/admin.php:274
+#: ../inc/admin.php:319
+#: ../inc/admin.php:365
+msgid "input type"
+msgstr "入力形式"
+
+#: ../inc/admin.php:259
+msgid "Meta Query"
+msgstr "カスタムフィールド"
+
+#: ../inc/admin.php:299
+#: ../inc/admin.php:307
+msgid "Category"
+msgstr "カテゴリー"
+
+#: ../inc/admin.php:344
+msgid "Post tag"
+msgstr "タグ"
+
+#: ../inc/admin.php:352
+msgid "Tag"
+msgstr "タグ"
+
+#: ../inc/admin.php:402
+msgid "Settings"
+msgstr "設定"
+
+#: ../inc/front.php:13
+msgid "Search Postmeta, Categories, Tags"
+msgstr "カスタムフィールド検索フォーム"
+
+#: ../inc/front.php:69
+msgid "Search"
+msgstr "検索"
+
+#: ../inc/front.php:87
+msgid "新しいタイトル"
+msgstr ""
+
+#: ../inc/front.php:90
+msgid "タイトル:"
+msgstr ""
+
+#: ../inc/front.php:162
+#: ../inc/front.php:199
+#: ../inc/front.php:241
+msgid "Select &hellip;"
+msgstr "選択 &hellip;"
+
+#: ../inc/search.php:17
+msgid "&"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Flexible custom search form including custom-fields(postmeta), post-types, categories and tag queries."
+msgstr "複数のカスタムフィールド、投稿タイプ、カテゴリー、タグでの検索が可能なフォームを簡単作成"
+

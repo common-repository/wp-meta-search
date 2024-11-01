@@ -1,0 +1,27 @@
+/*
+widget
+*/
+
+.widget_yks_wpms_form dl dt{
+	font-weight: bold;
+	margin: 0 0 6px 0;
+}
+
+.widget_yks_wpms_form dl dd{
+	margin-left: 14px;
+}
+
+.widget_yks_wpms_form dl dd label{
+	display:block;
+}
+
+.widget_yks_wpms_form dl dd label input[type=radio]{
+	margin:0 6px 0 0;
+} 
+
+.widget_yks_wpms_form select{
+	width:100%;
+}
+
+.widget_yks_wpms_form input[type=radio]{
+}

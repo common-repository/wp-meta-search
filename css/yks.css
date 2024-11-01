@@ -1,0 +1,27 @@
+.yks_mod{
+	/*width:35%;
+	border:3px solid #AAA;
+	padding:8px;
+	margin:0 0 10px 0;
+	background: #FFF;*/
+}
+
+#yks_modules{
+	display:none;
+}
+
+.modules_container{
+	border:3px dashed #AAA;
+	padding:10px;
+	margin:0 0 5px 0; 
+}
+
+.yks_mod.postbox{
+	margin-bottom: 5px;
+}
+
+.delete{
+	cursor:pointer;
+	color:red;
+	text-decoration: underline;
+}
